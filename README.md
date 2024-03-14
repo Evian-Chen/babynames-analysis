@@ -7,4 +7,8 @@ This program visualizes the data of the ranking of English names. It contains a 
 The top-left bar is for searching name. If the name does not exist in the data list, the top-right bar will show the notice.
 The bottom-left id for searching sub-name. Enter a sub-string, the bottom-right bar will show all names that contains the sub-string.
 
+The data looks like below:
+
+the first line is the year, the first number is ranking. The following are man and female names.
+
 ## Methodology
