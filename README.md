@@ -8,7 +8,9 @@ The top-left bar is for searching name. If the name does not exist in the data l
 The bottom-left id for searching sub-name. Enter a sub-string, the bottom-right bar will show all names that contains the sub-string.
 
 The data looks like below:
+<img src="https://github.com/Evian-Chen/babynames_analysis/blob/main/namesGraph.png" width="500" height="320">
+The first line is the year, the first number is ranking.(There are 1000 rankings)
 
-the first line is the year, the first number is ranking. The following are man and female names.
+The following are man and female names.
 
 ## Methodology
